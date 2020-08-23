@@ -1,0 +1,1 @@
+ python labelme2voc.py /home/rajput/Desktop/dataset_pre/semantic_segmentation_deeplabs/kangaroo_images/ /home/rajput/Desktop/dataset_pre/semantic_segmentation_deeplabs/kangaroo_train --labels /home/rajput/Desktop/dataset_pre/semantic_segmentation_deeplabs/labels.txt

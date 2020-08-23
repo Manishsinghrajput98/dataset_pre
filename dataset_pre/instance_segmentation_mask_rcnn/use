@@ -1,0 +1,1 @@
+ python labelme2coco.py /home/rajput/Desktop/dataset_pre/instance_segmentation_mask_rcnn/kangaroo_images/ /home/rajput/Desktop/dataset_pre/instance_segmentation_mask_rcnn/kangaroo_train --labels /home/rajput/Desktop/dataset_pre/instance_segmentation_mask_rcnn/labels.txt
